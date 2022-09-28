@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}   
+
+td{
+    color: aqua;
+}
+.container{
+    border: 3px solid red;
+    background-color: rgb(235, 104, 196);
+    padding: 10px;
+    margin: 50px 150px;
+    width: 600px;
+}
+.butt{
+    color: rgb(12, 4, 4);
+    text-align: right;
+    
+}
+
